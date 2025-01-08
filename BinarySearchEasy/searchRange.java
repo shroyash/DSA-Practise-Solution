@@ -1,5 +1,5 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
+    public int[] git(int[] nums, int target) {
         int[] result = {-1, -1};  // Initialize result to [-1, -1] if target is not found
 
         // Binary search to find the first occurrence
